@@ -1,9 +1,9 @@
-# Bhavishya Yadav
+# PRAKUL YADAV
 
 ### Founder · Full-Stack Web Developer · Digital Brand Builder
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:172554,100:0891b2&height=210&section=header&text=BHAVISHYA%20YADAV&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20Digital%20Experiences%20That%20Matter&descSize=15&descAlignY=60" width="100%" alt="Bhavishya Yadav profile banner"/>
+  <img src="blob:https://chatgpt.com/699c2d19-f05a-4f1a-bc44-1ba2e9f9b194" width="100%" alt="Bhavishya Yadav profile banner"/>
 </p>
 
 <p align="center">
