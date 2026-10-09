@@ -3,7 +3,7 @@
 ### Founder · Full-Stack Web Developer · Digital Brand Builder
 
 <p align="center">
-  <img src="blob:https://chatgpt.com/699c2d19-f05a-4f1a-bc44-1ba2e9f9b194" width="100%" alt="Bhavishya Yadav profile banner"/>
+  <img src="assets/profile-banner.png" width="100%" alt="Bhavishya Yadav profile banner"/>
 </p>
 
 <p align="center">
