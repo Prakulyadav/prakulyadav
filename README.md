@@ -3,7 +3,7 @@
 ### Founder · Full-Stack Web Developer · Digital Brand Builder
 
 <p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="Bhavishya Yadav profile banner"/>
+  <img src="assets/banner.png" width="100%" alt="Bhavishya Yadav profile banner"/>
 </p>
 
 <p align="center">
